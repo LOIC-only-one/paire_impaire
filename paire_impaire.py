@@ -24,7 +24,7 @@ print('''\u001b[32m         ______          _      _    ___  ___      _   _
                        |__/                                   \u001b[30m''')
 print("")
 print("\u001b[32mTitre : Nombre Paire et Impaire.\u001b[30m")
-print("\u001b[32mLoïc Maurer 2de1\u001b[30m")
+
 print("")
 
 
